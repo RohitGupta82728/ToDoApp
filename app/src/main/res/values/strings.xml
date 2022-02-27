@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="testing">Creating Item Layout</string>
+    <string name="desc">This is an add button</string>
+    <string name="clear_all">Clear All</string>
+    <string name="clear_done">Clear Done</string>
+</resources>
